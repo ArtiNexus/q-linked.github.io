@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Aug 2025 19:07:55 +0800</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Q-Linked 宣言 ： 我们失去了信任，也将重建它 (We Lost Trust. We Will Rebuild It.)</title>
+      <link>https://example.org/posts/0-we-lost-trust-we-will-rebuild-it-19.45.00/</link>
+      <pubDate>Mon, 11 Aug 2025 19:07:55 +0800</pubDate>
+      <guid>https://example.org/posts/0-we-lost-trust-we-will-rebuild-it-19.45.00/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;我是谁who-we-are&#34;&gt;我是谁？(Who We Are?)&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们是一群信徒，也是一群建设者。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们相信，信任，是人类协作的操作系统。 当它高效运转时，文明得以繁荣；当它崩坏失序时，社会陷入内耗。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;今天，我们正处在一个信任严重流失的时代。&lt;/p&gt;
+&lt;p&gt;在数字世界里，我们被算法的黑箱所包裹，被流量的竞价所操纵。我们付出的每一次点击，每一次消费，都在为一个我们看不见、也无法控制的系统贡献价值。而那个系统，却很少公平地回报我们。&lt;/p&gt;
+&lt;p&gt;商家失去了沉淀信誉的土壤，他们的口碑，在平台的流量规则面前，脆弱得不堪一击。&lt;/p&gt;
+&lt;p&gt;用户失去了辨别真伪的罗盘，他们在营销的噪音海洋中，疲惫地寻找可靠的孤岛。&lt;/p&gt;
+&lt;p&gt;我们，就是为了终结这场信任的迷航而来。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们是 Q-Linked。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们不是在构建又一个应用，我们是在为下一代数字文明，重建那个最核心、最不可或缺的——信任层。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;我从哪来where-we-come-from&#34;&gt;我从哪来？(Where We Come From?)&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们的思想，源于一个简单得近乎天真的信念：一个好的社会，应该让好人有好报。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这个信念，在现实世界中，常常被复杂的博弈和信息的不对称所扭曲。但在数字世界里，我们第一次有机会，用代码，将这个信念，变为一个不可动摇的数学法则。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;我们的灵感，并非源于凭空的幻想，而是对两个伟大范式的继承与超越：&lt;/p&gt;
+&lt;h3 id=&#34;我们继承了中心化信用的梦想&#34;&gt;我们继承了“中心化信用”的梦想：&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;前辈们用 FICO 和芝麻信用证明了，将无形的“信用行为”，转化为一个可用的“信用分数”是可行的。但我们希望能超越它的“数据围墙”与“算法霸权”，将数据的主权，归还给创造它的每一个人。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;我们继承了去中心化经济的工具&#34;&gt;我们继承了“去中心化经济”的工具：&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;前辈们用比特币和以太坊证明了，我们可以构建一个无需中心化权威的价值网络。但我们希望能超越它的“资本为王”的困境，让一个人的“声望”，而不是他持有的“资本”，成为决定社区走向的最终力量。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;我们站在巨人的肩膀上，看到了那条融合两条道路的、通往未来的唯一路径。&lt;/p&gt;
+&lt;p&gt;我们从对过去的深刻洞察中来，我们从对现有范式的根本性反思中来。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;我要到哪去where-we-are-going&#34;&gt;我要到哪去？(Where We Are Going?)&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们的终点，是一个信誉成为比资本更强大的力量的新商业文明。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;为了抵达那里，我们设计了一套全新的“物理定律”——三维价值凭证模型。在这个由代码构建的新宇宙里：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;承诺 (Commitment)&lt;/strong&gt; 被铸造成凭证，让每一次诚信履约，都成为一次可积累的价值沉淀。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;贡献 (Contribution)&lt;/strong&gt; 被转化为燃料，让每一次对生态的投入，都成为一次可控的未来投资。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;声望 (Reputation)&lt;/strong&gt; 被授予桂冠，让那些长期的、利他的建设者，掌握最终的治理权。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在这个新世界里，我们将看到：&lt;/p&gt;
+&lt;h3 id=&#34;对于商家信誉即资产&#34;&gt;对于商家：信誉即资产。&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他们不再需要乞求流量，因为他们每一次用心服务所积累的信誉，就是最强大的、全球通用的“金字招牌”。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;对于用户信任即效率&#34;&gt;对于用户：信任即效率。&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他们不再需要在信息的迷雾中艰难跋涉，因为一个公正的系统，会自动让那些最值得信赖的价值，闪耀在他们眼前。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;对于生态良币驱逐劣币&#34;&gt;对于生态：良币驱逐劣币。&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;资本可以加速增长，但无法购买信誉；金钱可以换取服务，但无法染指规则。一个健康的、能够自我净化的新陈代谢系统，将成为现实。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;我们深知，这是一条漫长而艰难的道路。它需要理论的严谨，技术的坚韧，更需要建设者们不可动摇的信念。&lt;/p&gt;
+&lt;p&gt;我们不向您承诺一个唾手可得的乌托邦。
+我们向您发出一份并肩作战的邀请。&lt;/p&gt;
+&lt;p&gt;邀请您，与我们一起，重建那个我们正在失去，但须臾不可离的——信任。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;加入我们，一起构建未来。
+(Join us. Build the future.)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
