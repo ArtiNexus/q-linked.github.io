@@ -1,0 +1,21 @@
+baseURL = "https://ArtiNexus.github.io/q-linked.github.io/"
+languageCode = "zh-cn"
+title = "Q-Linked | 重建信任"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto" # a-auto, light, dark
+  description = "我们失去了信任，也将重建它。一个旨在为下一代数字文明重建信任层的思想与实践平台。"
+  author = "王彦斌 (Yanbin Wang)"
+
+[menu]
+  [[menu.main]]
+    identifier = "archives"
+    name = "文章归档"
+    url = "/archives/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "关于我们"
+    url = "/about/"
+    weight = 20
