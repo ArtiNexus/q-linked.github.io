@@ -102,3 +102,4 @@ defaultContentLanguageInSubdir = false # <--- 新增！确保默认语言URL不�
     weight = 3
     url = "mailto:wangyanbinoo@gmail.com"
 
+# Re-deploy trigger
