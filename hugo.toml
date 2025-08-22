@@ -1,0 +1,104 @@
+baseURL = "https://q-linked.org/"
+theme = "hugo-coder"
+languageCode = "zh"
+defaultContentLanguage = "zh"
+title = "Q-LINKED"
+defaultContentLanguageInSubdir = false # <--- 新增！确保默认语言URL不带/zh/
+
+[languages.zh]
+  languageName = "中文"
+  weight = 1
+  contentDir = "content/zh" # <--- 新增！指定中文内容的目录
+   [languages.zh.params]
+    flag = "🇨🇳" # <--- 将 "cn" 修改为中国国旗 Emoji
+    author = "Q-Linked 创世" # <--- 中文作者名
+    info = "为价值创造者，重建数字文明" # <--- 中文简介
+  [[languages.zh.menu.main]]
+    name = "宣言"
+    url = "/manifesto/"
+    weight = 1
+  [[languages.zh.menu.main]]
+    name = "博客" # 新增
+    url = "/posts/"   # 新增
+    weight = 2   # 新增
+  [[languages.zh.menu.main]]
+    name = "关于" # 新增
+    url = "/about/"  # 新增
+    weight = 3   # 新增
+  [[languages.zh.menu.main]]
+    name = "联系" # 新增
+    url = "/contact/"# 新增
+    weight = 4   # 新增
+  [[languages.zh.menu.main]]
+    name = "GitHub"
+    url = "https://github.com/ArtiNexus/q-linked-protocol"
+    weight = 5 # 注意 weight 顺延
+
+  [languages.en]
+  languageName = "English"
+  weight = 2
+  contentDir = "content/en" # <--- 新增！指定英文内容的目录
+  [languages.en.params]
+    flag = "🇺🇸" # <--- 将 "us" 修改为美国国旗 Emoji
+    author = "Q-Linked Genesis" # <--- 新增！英文作者名
+    info = "Rebuilding Digital Civilization for the Value Creators" # <--- 新增！英文简介
+  [[languages.en.menu.main]]
+    name = "Manifesto"
+    url = "/manifesto/"
+    weight = 1
+  [[languages.en.menu.main]]
+    name = "Blog"    # 新增
+    url = "/posts/"      # 新增
+    weight = 2      # 新增
+  [[languages.en.menu.main]]
+    name = "About"    # 新增
+    url = "/about/"     # 新增
+    weight = 3      # 新增
+  [[languages.en.menu.main]]
+    name = "Contact"  # 新增
+    url = "/contact/"   # 新增
+    weight = 4      # 新增
+  [[languages.en.menu.main]]
+    name = "GitHub"
+    url = "https://github.com/ArtiNexus/q-linked-protocol"
+    weight = 5 # 注意 weight 顺延
+
+[params]
+  author = "Q-Linked 创世"
+  info = "为价值创造者，重建数字文明"
+  avatarurl = "/images/logo.png"
+
+  # --- 新增：严格按照官方文档配置 Favicon ---
+  faviconSVG = "/images/logo-small.svg"  # 浏览器深色模式或部分现代浏览器会优先使用
+  favicon_32 = "/images/favicon-32x32.png"
+  favicon_16 = "/images/favicon-16x16.png"
+  touchIcon = "/images/apple-touch-icon.png"
+  # --- Favicon 配置结束 ---
+
+  # logo = "/images/logo-small.svg"
+  # mainSections = ["posts"]
+
+  colorscheme = "auto"
+  hidecolorschemetoggle = false
+  showFlags = true
+  customRemoteCSS = [
+    "https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400..700;1,400..700&family=Noto+Sans+Simplified+Chinese:wght@400;700&display=swap"
+  ]
+  customCSS = ["css/custom.css"]
+  
+    [[params.social]]
+    name = "GitHub"
+    icon = "fa fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/ArtiNexus/q-linked-protocol"
+  [[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/Q_Linked_CS"
+  [[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope fa-2x"
+    weight = 3
+    url = "mailto:wangyanbinoo@gmail.com"
+
