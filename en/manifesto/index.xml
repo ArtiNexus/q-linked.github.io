@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Q-Linked Genesis Manifesto on Q-LINKED</title>
+    <link>https://q-linked.org/en/manifesto/</link>
+    <description>Recent content in The Q-Linked Genesis Manifesto on Q-LINKED</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://q-linked.org/en/manifesto/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
